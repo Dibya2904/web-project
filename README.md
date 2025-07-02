@@ -1,2 +1,2 @@
-# web-project
+# sorting-visualizer-dibya
 web project description
